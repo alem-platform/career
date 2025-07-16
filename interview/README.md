@@ -120,22 +120,11 @@ By default, students must complete a series of mock interviews covering technica
 
 Students must demonstrate professional interview behavior and effective communication skills.
 
-Outcomes:
-- Students demonstrate basic interview performance across different question types.
-- Students can provide and receive constructive feedback effectively.
-- Students show improvement in communication and problem-solving presentation.
-
-Notes:
-- Minimum 4 mock interview sessions required (2 as interviewer, 2 as interviewee).
+- Minimum 2 mock interview sessions required (1 as interviewer, 1 as interviewee).
 - Each session must be 45-60 minutes following standard interview format.
 - Sessions must cover both technical and behavioral components.
 - All sessions must be documented with feedback forms.
-- Recording sessions is strongly recommended for self-analysis and improvement tracking.
-
-Constraints:
-- Sessions must be conducted with different partners to experience various interviewing styles.
-- No preparation time allowed during technical problem-solving (realistic conditions).
-- Professional attire and behavior required for all sessions.
+- Recording sessions is recommended for self-analysis and improvement tracking.
 
 Required Session Structure:
 1. **Introduction Phase** (5 minutes): Professional introductions, role clarification
@@ -149,11 +138,6 @@ Required Session Structure:
 
 Students must demonstrate competency in solving technical problems under interview conditions.
 
-Outcomes:
-- Students can solve coding problems while explaining their thought process clearly.
-- Students demonstrate understanding of time and space complexity analysis.
-- Students can handle follow-up questions and edge cases effectively.
-
 Technical Interview Requirements:
 1. **Problem Understanding**: Ask clarifying questions, identify constraints and edge cases
 2. **Solution Planning**: Explain high-level approach before coding
@@ -162,7 +146,7 @@ Technical Interview Requirements:
 5. **Optimization**: Discuss alternative approaches and improvements
 6. **Communication**: Maintain clear explanation throughout the process
 
-Required Technical Topics:
+Suggested Technical Topics:
 - **Data Structures**: Arrays, linked lists, trees, graphs, hash tables
 - **Algorithms**: Sorting, searching, dynamic programming, recursion
 - **Problem-Solving Patterns**: Two pointers, sliding window, breadth-first search, depth-first search
@@ -180,26 +164,12 @@ Performance Evaluation Criteria:
 
 Students must demonstrate ability to answer behavioral questions using structured frameworks and compelling storytelling.
 
-Outcomes:
-- Students can answer behavioral questions using the STAR (Situation, Task, Action, Result) method.
-- Students present authentic examples that demonstrate key competencies.
-- Students show understanding of what interviewers are evaluating in behavioral questions.
-
-Behavioral Interview Requirements:
+Behavioral Interview Tips:
 1. **STAR Method Application**: Structure all responses using Situation, Task, Action, Result
 2. **Story Preparation**: Have 5-7 prepared stories covering different competencies
 3. **Authenticity**: Use real experiences from projects, internships, or academic work
 4. **Relevance**: Connect stories to job requirements and company values
 5. **Results Focus**: Quantify outcomes and demonstrate impact
-
-Required Competency Areas:
-- **Leadership**: Times you took initiative or led a project/team
-- **Problem-Solving**: Technical or interpersonal challenges you overcame
-- **Teamwork**: Successful collaboration experiences and conflict resolution
-- **Learning Agility**: How you learn new technologies or adapt to change
-- **Communication**: Explaining complex topics or persuading others
-- **Time Management**: Handling competing priorities or tight deadlines
-- **Failure/Growth**: Learning from mistakes and continuous improvement
 
 Sample Story Bank (Students must prepare responses for):
 - Tell me about a time you faced a significant technical challenge
@@ -212,18 +182,6 @@ Sample Story Bank (Students must prepare responses for):
 ### Session Recording and Self-Assessment
 
 Students should record their mock interviews (with mutual consent) for detailed self-analysis and improvement tracking.
-
-Outcomes:
-- Students can objectively review their interview performance and identify specific areas for improvement.
-- Students develop self-awareness about their communication patterns, body language, and presentation style.
-- Students can track progress over multiple sessions and see concrete improvement.
-
-Recording Guidelines:
-1. **Consent**: Both participants must agree to recording before starting
-2. **Privacy**: Recordings should be kept private and used only for personal improvement
-3. **Platform**: Use platforms with built-in recording (Zoom, Google Meet, etc.)
-4. **Storage**: Store recordings securely and delete after review period
-5. **Review Schedule**: Watch recordings within 48 hours while the experience is fresh
 
 Self-Assessment Framework:
 **Technical Performance Review:**
@@ -262,17 +220,7 @@ After reviewing each recording, students should:
 4. **Compare performance across multiple recordings**
 5. **Share insights with peers for additional feedback**
 
-Constraints:
-- Recordings must be deleted within 30 days of creation
-- Content should never be shared without explicit consent
-- Focus should be on constructive self-improvement, not harsh self-criticism
-
 ### Interview Etiquette and Professionalism
-
-Outcomes:
-- Students present themselves professionally and confidently in interview settings.
-- Students can ask thoughtful questions about the role and company.
-- Students handle stress and unexpected situations gracefully.
 
 Professional Behavior Requirements:
 1. **Punctuality**: Arrive on time and prepared for all sessions
@@ -329,23 +277,6 @@ Professional Communication Guidelines:
 3. Coin Change: Minimum coins needed to make a given amount
 4. Longest Increasing Subsequence: Find length of longest increasing subsequence
 5. Edit Distance: Minimum operations to convert one string to another
-
-#### Hard Level (For Advanced Practice)
-**Complex Algorithms:**
-1. Serialize and Deserialize Binary Tree: Encode/decode binary tree to/from string
-2. Word Ladder: Find shortest transformation sequence from start to end word
-3. Trapping Rain Water: Calculate how much rainwater can be trapped
-4. Median of Two Sorted Arrays: Find median of two sorted arrays in O(log(min(m,n)))
-5. Regular Expression Matching: Implement regex matching with . and *
-
-#### System Design Questions (For Senior Positions)
-1. Design a URL shortener (like bit.ly)
-2. Design a chat application (like WhatsApp)
-3. Design a social media feed (like Twitter timeline)
-4. Design a file storage system (like Google Drive)
-5. Design a rate limiter
-6. Design a load balancer
-7. Design a caching system
 
 ### Behavioral Interview Questions
 
@@ -406,57 +337,6 @@ Professional Communication Guidelines:
 4. Describe a situation where you had to re-prioritize your work due to changing requirements
 5. Tell me about a time when you had to balance perfectionism with practical deadlines
 6. Give an example of when you had to work on a long-term project while handling daily responsibilities
-
-## Interview Preparation Guidelines
-
-### Pre-Interview Preparation (1 week before)
-
-**Technical Preparation:**
-1. **Review Fundamentals**: Ensure solid understanding of data structures and algorithms
-2. **Practice Coding**: Solve 2-3 problems daily from different difficulty levels
-3. **Mock Problem Sessions**: Practice explaining solutions aloud
-4. **Complexity Analysis**: Review Big O notation and be able to analyze any solution
-5. **Language Choice**: Pick one programming language and practice interview-style coding
-
-**Behavioral Preparation:**
-1. **Story Development**: Write out 7-10 STAR format stories covering different competencies
-2. **Practice Delivery**: Rehearse stories focusing on clear, concise communication
-3. **Company Research**: Understand the company's values, culture, and recent developments
-4. **Question Preparation**: Develop thoughtful questions about the role and company
-5. **Mock Behavioral Sessions**: Practice with peers or record yourself
-
-**Logistics Preparation:**
-1. **Environment Setup**: Ensure reliable internet, quiet space, good lighting
-2. **Technology Check**: Test video calling software, screen sharing, coding platforms
-3. **Materials Ready**: Have notebook, pen, water, and backup internet available
-4. **Timing Practice**: Practice with actual time constraints
-5. **Stress Management**: Develop techniques for staying calm under pressure
-
-### Day of Interview
-
-**Pre-Interview (30 minutes before):**
-1. **Technical Setup**: Test all technology, have backups ready
-2. **Mental Preparation**: Review key concepts, do light warm-up problems
-3. **Physical Preparation**: Dress professionally, ensure good posture
-4. **Environment**: Remove distractions, inform others of interview time
-5. **Mindset**: Focus on demonstrating abilities, not perfect performance
-
-**During Interview:**
-1. **Opening**: Professional greeting, confirm audio/video quality
-2. **Active Listening**: Pay careful attention to all questions and instructions
-3. **Clarification**: Ask clarifying questions before jumping into solutions
-4. **Think Aloud**: Verbalize your thought process throughout problem-solving
-5. **Stay Calm**: If stuck, take a breath and work through the problem systematically
-
-**Post-Interview:**
-1. **Thank You**: Express appreciation for the interviewer's time
-2. **Recording Stop**: Ensure recording is properly saved and accessible
-3. **Immediate Notes**: Write down initial impressions before reviewing recording
-4. **Follow-up**: Send thank you email within 24 hours (practice professional communication)
-5. **Recording Review**: Schedule time within 48 hours to watch and analyze performance
-6. **Self-Reflection**: Document what went well and areas for improvement using recorded evidence
-7. **Feedback**: If possible, request specific feedback for future improvement
-8. **Continued Practice**: Use the experience and recording insights to guide future preparation
 
 ## Support
 Interviews are conversations, not interrogations. The goal is to demonstrate that you can solve problems, communicate effectively, and would be a good team member.
