@@ -1,4 +1,3 @@
-
 ## Profile Setup and Basic Requirements
 ### Is the GitHub profile publicly accessible and professionally presented?
 - [ ] Yes
