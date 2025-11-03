@@ -1,4 +1,3 @@
-
 ## CV Format and Structure
 ### Is the CV submitted in PDF format?
 - [ ] Yes
