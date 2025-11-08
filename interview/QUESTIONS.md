@@ -1,5 +1,4 @@
 # Mock Interview Performance - Assessment Questions
-
 ## Session Completion and Participation
 ### Did the student complete the minimum two mock interview sessions (one as interviewer, one as interviewee)?
 - [ ] Yes
